@@ -15,7 +15,7 @@ This is an Android application to calculate the calories based on the amounts of
 <br> - Stair-Climbing
 
 In addition, a user can see the equivalent amount of minutes/reps for any other exercise to get the same calories like the current selected exercise, by selecting the spinner at the button of the app. This conversion app can take up to 16 digits of rep/minutes. This app works in both orientation, portrait and landscape.
-(*This repo is including the APK aligned file for installing on andriod device)
+<br>(*This repo includes the APK aligned file for installing on andriod devices).
 
 ## Authors
 
