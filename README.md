@@ -38,6 +38,6 @@ See [your demo video title here] (https://link_to_your_video)
 ## Acknowledgments
 
 * Icon from http://www.ironman.today/training-tools/
-* The sample this repo structure https://github.com/googlesamples/android-TextSwitcher
+* The repo structure and getting project started https://github.com/googlesamples/android-TextSwitcher
 * Google Android Development Doc
 
