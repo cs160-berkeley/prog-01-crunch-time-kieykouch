@@ -23,7 +23,7 @@ Ki Kouch ([ki.ey.kouch@berkeley.edu](mailto:your_email@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [Maexercise's demostrate] (https://vimeo.com/154372149)
 
 ## Screenshots
 
